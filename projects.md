@@ -52,7 +52,7 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 5. [Katovich, Darya](https://github.com/dkotowicz/ruby_projekt_1). [Blog](https://blogrubydaria.herokuapp.com)
 55. [Luszuk, Paweł](https://github.com/luszukpawel/Architektura-serwisow-internetowych-zal). [Guns](https://github.com/luszukpawel/Ruby-on-Rails-getting-started) 21.02
 6. [Łąkowski, Jakub](https://github.com/kubalakowski/asi). [Heroku](https://simplerorapp.herokuapp.com/), [Blog](https://github.com/kubalakowski/ror-getting-started) 21.02
-54. Lis, Marcin 21.02 07.03
+54. [Lis, Marcin](https://github.com/marcinlis0/ASI) 21.02 07.03
 7. [Łojkowski, Wojciech](https://github.com/wlojkowski/QuotesApp). [Quotes](https://quotesapprails.herokuapp.com/)
 56. Majewski, Sebastian 21.02 07.03
 8. [Makiewicz, Adam](https://github.com/adammak2342/Ruby-asi) 21.02 28.02
